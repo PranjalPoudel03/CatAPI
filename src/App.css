@@ -1,0 +1,37 @@
+.app-container {
+  text-align: center;
+  padding: 1rem;
+  background-color: #d8fff1;
+  font-family: sans-serif;
+}
+
+.discover-btn {
+  margin-top: 10px;
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  background-color: #222;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.ban-list {
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: #444;
+  color: white;
+  max-width: 400px;
+  margin-inline: auto;
+  border-radius: 8px;
+}
+
+.ban-item {
+  background-color: #e74c3c;
+  border: none;
+  color: white;
+  padding: 0.4rem 0.8rem;
+  margin: 0.2rem;
+  border-radius: 4px;
+  cursor: pointer;
+}

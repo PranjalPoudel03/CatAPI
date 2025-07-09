@@ -1,0 +1,29 @@
+.card {
+  background-color: white;
+  margin: 1rem auto;
+  padding: 1rem;
+  border-radius: 12px;
+  max-width: 400px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.tags {
+  margin-bottom: 1rem;
+}
+
+.tags button {
+  background-color: goldenrod;
+  border: none;
+  margin: 0.3rem;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  color: white;
+  cursor: pointer;
+}
+
+.cat-img {
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+}
